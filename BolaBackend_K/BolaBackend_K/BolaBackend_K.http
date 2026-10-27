@@ -1,0 +1,6 @@
+@BolaBackend_K_HostAddress = http://localhost:5054
+
+GET {{BolaBackend_K_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
