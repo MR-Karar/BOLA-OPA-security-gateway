@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../BolaGateway_M/BolaGateway_M.csproj" />
   <Project Path="BolaBackend_K/BolaBackend_K.csproj" />
   <Project Path="BolaGateway_M/BolaGateway_M.csproj" />
 </Solution>
